@@ -136,7 +136,7 @@
       "teleport": "Ul'dah - Steps Of Nald > Gate Of The Sultana",
       "teleportFr": "Ul'dah - Faubourg De Nald > Porte De Nanamo",
       "teleportDe": "Nald-Kreuzgang > Neues Sultana-Tor",
-      "position": "unknown",
+      "position": { },
       "startTime": "5:00",
       "endTime": "8:00",
       "itemIds": ["12", "13"]
@@ -762,7 +762,7 @@
       "teleport": "",
       "teleportFr": "MISSING_DATA",
       "teleportDe": "MISSING_DATA",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "1:00",
       "itemIds": ["61"]
@@ -776,7 +776,7 @@
       "teleport": "",
       "teleportFr": "ul",
       "teleportDe": "null",
-      "position": "unknown",
+      "position": { },
       "startTime": "6:00",
       "endTime": "7:00",
       "itemIds": ["62"]
@@ -790,7 +790,7 @@
       "teleport": "The Brewer's Beacon",
       "teleportFr": "Phare Des Brasseurs",
       "teleportDe": "Leuchtturm Braubake",
-      "position": "unknown",
+      "position": { },
       "startTime": "9:00",
       "endTime": "14:00",
       "itemIds": ["63"]
@@ -804,7 +804,7 @@
       "teleport": "Limsa Lominsa Lower Decks > Tempest Gate",
       "teleportFr": "Limsa Lominsa - L'Entrepont > Porte De La Tempête",
       "teleportDe": "Untere Decks > Sturmtor",
-      "position": "unknown",
+      "position": { },
       "startTime": "17:00",
       "endTime": "18:00",
       "itemIds": ["64"]
@@ -818,7 +818,7 @@
       "teleport": "",
       "teleportFr": "ul",
       "teleportDe": "null",
-      "position": "unknown",
+      "position": { },
       "startTime": "18:00",
       "endTime": "19:00",
       "itemIds": ["65"]
@@ -832,7 +832,7 @@
       "teleport": "Bronze Lake Shallows",
       "teleportFr": "Bas-fonds Du Lac D'Airain",
       "teleportDe": "Bronzesee-Untiefen",
-      "position": "unknown",
+      "position": { },
       "startTime": "19:00",
       "endTime": "20:00",
       "itemIds": ["66"]
@@ -846,7 +846,7 @@
       "teleport": "Costa Del Sol",
       "teleportFr": "Costa Del Sol",
       "teleportDe": "Sonnenküste",
-      "position": "unknown",
+      "position": { },
       "startTime": "23:00",
       "endTime": "2:00",
       "itemIds": ["67"]
@@ -1687,7 +1687,7 @@
       "teleport": "Tailfeather",
       "teleportFr": "La Penne",
       "teleportDe": "Fiederhag",
-      "position": "unknown",
+      "position": { },
       "startTime": "22:00",
       "endTime": "3:00",
       "itemIds": ["118"]
@@ -1701,7 +1701,7 @@
       "teleport": "Helix",
       "teleportFr": "Hélice",
       "teleportDe": "Helix",
-      "position": "unknown",
+      "position": { },
       "startTime": "21:00",
       "endTime": "23:55",
       "itemIds": ["119"]
@@ -1715,7 +1715,7 @@
       "teleport": "Tailfeather",
       "teleportFr": "La Penne",
       "teleportDe": "Fiederhag",
-      "position": "unknown",
+      "position": { },
       "startTime": "18:00",
       "endTime": "20:30",
       "itemIds": ["120"]
@@ -1729,7 +1729,7 @@
       "teleport": "Voor Sian Siran",
       "teleportFr": "Voor Sian Siran",
       "teleportDe": "Voor Sian Siran",
-      "position": "unknown",
+      "position": { },
       "startTime": "18:00",
       "endTime": "20:30",
       "itemIds": ["120"]
@@ -1743,7 +1743,7 @@
       "teleport": "Moraby Drydocks",
       "teleportFr": "Chantier Naval De Moraby",
       "teleportDe": "Moraby-Trockendocks",
-      "position": "unknown",
+      "position": { },
       "startTime": "10:00",
       "endTime": "18:00",
       "itemIds": ["121"]
@@ -1757,7 +1757,7 @@
       "teleport": "",
       "teleportFr": "ul",
       "teleportDe": "null",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "8:00",
       "itemIds": ["122"]
@@ -1771,7 +1771,7 @@
       "teleport": "",
       "teleportFr": "ul",
       "teleportDe": "null",
-      "position": "unknown",
+      "position": { },
       "startTime": "8:00",
       "endTime": "16:00",
       "itemIds": ["122"]
@@ -1785,7 +1785,7 @@
       "teleport": "",
       "teleportFr": "ul",
       "teleportDe": "null",
-      "position": "unknown",
+      "position": { },
       "startTime": "16:00",
       "endTime": "23:55",
       "itemIds": ["122"]
@@ -1817,7 +1817,7 @@
       "teleport": "Helix",
       "teleportFr": "Hélice",
       "teleportDe": "Helix",
-      "position": "unknown",
+      "position": { },
       "startTime": "15:00",
       "endTime": "18:00",
       "itemIds": ["124"]
@@ -1831,7 +1831,7 @@
       "teleport": "Zenith",
       "teleportFr": "Zénith",
       "teleportDe": "Kreidetempel",
-      "position": "unknown",
+      "position": { },
       "startTime": "10:00",
       "endTime": "14:00",
       "itemIds": ["126"]
@@ -1845,7 +1845,7 @@
       "teleport": "Anyx Trine",
       "teleportFr": "Annexe Trine",
       "teleportDe": "Trinär-Annex",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "6:00",
       "itemIds": ["125"]
@@ -1859,7 +1859,7 @@
       "teleport": "Idyllshire",
       "teleportFr": "Idyllée",
       "teleportDe": "Frohehalde",
-      "position": "unknown",
+      "position": { },
       "startTime": "15:00",
       "endTime": "18:00",
       "itemIds": ["127"]
@@ -1910,7 +1910,7 @@
       "teleport": "Falcon's Nest",
       "teleportFr": "Nid Du Faucon",
       "teleportDe": "Falkenhorst",
-      "position": "unknown",
+      "position": { },
       "startTime": "6:00",
       "endTime": "7:55",
       "itemIds": ["131"]
@@ -2627,7 +2627,7 @@
       "teleport": "Falcon's Nest",
       "teleportFr": "Nid Du Faucon",
       "teleportDe": "Falkenhorst",
-      "position": "unknown",
+      "position": { },
       "startTime": "18:00",
       "endTime": "19:55",
       "itemIds": ["131"]
@@ -3506,7 +3506,7 @@
       "teleport": "Stilltide",
       "teleportFr": "Douceonde",
       "teleportDe": "Stilltide",
-      "position": "unknown",
+      "position": { },
       "startTime": "2:00",
       "endTime": "3:55",
       "itemIds": ["195"]
@@ -3521,7 +3521,7 @@
       "teleport": "Stilltide",
       "teleportFr": "Douceonde",
       "teleportDe": "Stilltide",
-      "position": "unknown",
+      "position": { },
       "startTime": "14:00",
       "endTime": "15:55",
       "itemIds": ["195"]
@@ -3536,7 +3536,7 @@
       "teleport": "Fanow",
       "teleportFr": "Fanow",
       "teleportDe": "Fanow",
-      "position": "unknown",
+      "position": { },
       "startTime": "4:00",
       "endTime": "5:55",
       "itemIds": ["196"]
@@ -3551,7 +3551,7 @@
       "teleport": "Fanow",
       "teleportFr": "Fanow",
       "teleportDe": "Fanow",
-      "position": "unknown",
+      "position": { },
       "startTime": "16:00",
       "endTime": "17:55",
       "itemIds": ["196"]
@@ -3566,7 +3566,7 @@
       "teleport": "Wolekdorf",
       "teleportFr": "Wolekdorf",
       "teleportDe": "Wolekdorf",
-      "position": "unknown",
+      "position": { },
       "startTime": "6:00",
       "endTime": "7:55",
       "itemIds": ["197"]
@@ -3581,7 +3581,7 @@
       "teleport": "Wolekdorf",
       "teleportFr": "Wolekdorf",
       "teleportDe": "Wolekdorf",
-      "position": "unknown",
+      "position": { },
       "startTime": "18:00",
       "endTime": "19:55",
       "itemIds": ["197"]
@@ -3596,7 +3596,7 @@
       "teleport": "Journey's Head",
       "teleportFr": "Journey's Head",
       "teleportDe": "Journey's Head",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "1:55",
       "itemIds": ["198"]
@@ -3611,7 +3611,7 @@
       "teleport": "Journey's Head",
       "teleportFr": "Journey's Head",
       "teleportDe": "Journey's Head",
-      "position": "unknown",
+      "position": { },
       "startTime": "12:00",
       "endTime": "13:55",
       "itemIds": ["198"]
@@ -3626,7 +3626,7 @@
       "teleport": "The Ondo Cups",
       "teleportFr": "Baïne",
       "teleportDe": "Ondo-Becken",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "1:55",
       "itemIds": ["199"]
@@ -3641,7 +3641,7 @@
       "teleport": "The Ondo Cups",
       "teleportFr": "Baïne",
       "teleportDe": "Ondo-Becken",
-      "position": "unknown",
+      "position": { },
       "startTime": "12:00",
       "endTime": "13:55",
       "itemIds": ["199"]
@@ -3656,7 +3656,7 @@
       "teleport": "Fort Jobb",
       "teleportFr": "Fort Jobb",
       "teleportDe": "Jobb-Feste",
-      "position": "unknown",
+      "position": { },
       "startTime": "6:00",
       "endTime": "7:55",
       "itemIds": ["200"]
@@ -3671,7 +3671,7 @@
       "teleport": "Fort Jobb",
       "teleportFr": "Fort Jobb",
       "teleportDe": "Jobb-Feste",
-      "position": "unknown",
+      "position": { },
       "startTime": "18:00",
       "endTime": "19:55",
       "itemIds": ["200"]
@@ -3686,7 +3686,7 @@
       "teleport": "Wolekdorf",
       "teleportFr": "Wolekdorf",
       "teleportDe": "Wolekdorf",
-      "position": "unknown",
+      "position": { },
       "startTime": "4:00",
       "endTime": "5:55",
       "itemIds": ["201", "218"]
@@ -3701,7 +3701,7 @@
       "teleport": "Wolekdorf",
       "teleportFr": "Wolekdorf",
       "teleportDe": "Wolekdorf",
-      "position": "unknown",
+      "position": { },
       "startTime": "16:00",
       "endTime": "17:55",
       "itemIds": ["201", "218"]
@@ -3716,7 +3716,7 @@
       "teleport": "The Ondo Cups",
       "teleportFr": "Baïne",
       "teleportDe": "Ondo-Becken",
-      "position": "unknown",
+      "position": { },
       "startTime": "10:00",
       "endTime": "11:55",
       "itemIds": ["202"]
@@ -3731,7 +3731,7 @@
       "teleport": "The Ondo Cups",
       "teleportFr": "Baïne",
       "teleportDe": "Ondo-Becken",
-      "position": "unknown",
+      "position": { },
       "startTime": "22:00",
       "endTime": "23:55",
       "itemIds": ["202"]
@@ -3746,7 +3746,7 @@
       "teleport": "Wright",
       "teleportFr": "Cherpant",
       "teleportDe": "Werfting",
-      "position": "unknown",
+      "position": { },
       "startTime": "10:00",
       "endTime": "11:55",
       "itemIds": ["203"]
@@ -3761,7 +3761,7 @@
       "teleport": "Wright",
       "teleportFr": "Cherpant",
       "teleportDe": "Werfting",
-      "position": "unknown",
+      "position": { },
       "startTime": "22:00",
       "endTime": "23:55",
       "itemIds": ["203"]
@@ -3776,7 +3776,7 @@
       "teleport": "Lydha Lran",
       "teleportFr": "Lydha Lran",
       "teleportDe": "Lydha Lran",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "1:55",
       "itemIds": ["204"]
@@ -3791,7 +3791,7 @@
       "teleport": "Lydha Lran",
       "teleportFr": "Lydha Lran",
       "teleportDe": "Lydha Lran",
-      "position": "unknown",
+      "position": { },
       "startTime": "12:00",
       "endTime": "13:55",
       "itemIds": ["204"]
@@ -3806,7 +3806,7 @@
       "teleport": "Fort Jobb",
       "teleportFr": "Fort Jobb",
       "teleportDe": "Jobb-Feste",
-      "position": "unknown",
+      "position": { },
       "startTime": "10:00",
       "endTime": "11:55",
       "itemIds": ["205"]
@@ -3821,7 +3821,7 @@
       "teleport": "Fort Jobb",
       "teleportFr": "Fort Jobb",
       "teleportDe": "Jobb-Feste",
-      "position": "unknown",
+      "position": { },
       "startTime": "22:00",
       "endTime": "23:55",
       "itemIds": ["205"]
@@ -3836,7 +3836,7 @@
       "teleport": "Fanow",
       "teleportFr": "Fanow",
       "teleportDe": "Fanow",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "1:55",
       "itemIds": ["206"]
@@ -3851,7 +3851,7 @@
       "teleport": "Fanow",
       "teleportFr": "Fanow",
       "teleportDe": "Fanow",
-      "position": "unknown",
+      "position": { },
       "startTime": "12:00",
       "endTime": "13:55",
       "itemIds": ["206"]
@@ -3866,7 +3866,7 @@
       "teleport": "Wright",
       "teleportFr": "Cherpant",
       "teleportDe": "Werfting",
-      "position": "unknown",
+      "position": { },
       "startTime": "6:00",
       "endTime": "7:55",
       "itemIds": ["207"]
@@ -3881,7 +3881,7 @@
       "teleport": "Wright",
       "teleportFr": "Cherpant",
       "teleportDe": "Werfting",
-      "position": "unknown",
+      "position": { },
       "startTime": "18:00",
       "endTime": "19:55",
       "itemIds": ["207"]
@@ -3896,7 +3896,7 @@
       "teleport": "Twine",
       "teleportFr": "Queues-liées",
       "teleportDe": "Pfotenschlag",
-      "position": "unknown",
+      "position": { },
       "startTime": "8:00",
       "endTime": "9:55",
       "itemIds": ["208"]
@@ -3911,7 +3911,7 @@
       "teleport": "Twine",
       "teleportFr": "Queues-liées",
       "teleportDe": "Pfotenschlag",
-      "position": "unknown",
+      "position": { },
       "startTime": "20:00",
       "endTime": "21:55",
       "itemIds": ["208"]
@@ -3926,7 +3926,7 @@
       "teleport": "Slitherbough",
       "teleportFr": "Serpentige",
       "teleportDe": "Slitherbough",
-      "position": "unknown",
+      "position": { },
       "startTime": "2:00",
       "endTime": "3:55",
       "itemIds": ["209", "217"]
@@ -3941,7 +3941,7 @@
       "teleport": "Slitherbough",
       "teleportFr": "Serpentige",
       "teleportDe": "Slitherbough",
-      "position": "unknown",
+      "position": { },
       "startTime": "14:00",
       "endTime": "15:55",
       "itemIds": ["209", "217"]
@@ -3956,7 +3956,7 @@
       "teleport": "Fort Jobb",
       "teleportFr": "Fort Jobb",
       "teleportDe": "Jobb-Feste",
-      "position": "unknown",
+      "position": { },
       "startTime": "8:00",
       "endTime": "9:55",
       "itemIds": ["210"]
@@ -3971,7 +3971,7 @@
       "teleport": "Fort Jobb",
       "teleportFr": "Fort Jobb",
       "teleportDe": "Jobb-Feste",
-      "position": "unknown",
+      "position": { },
       "startTime": "20:00",
       "endTime": "21:55",
       "itemIds": ["210"]
@@ -3986,7 +3986,7 @@
       "teleport": "Tomra",
       "teleportFr": "Tomra",
       "teleportDe": "Tomra",
-      "position": "unknown",
+      "position": { },
       "startTime": "16:00",
       "endTime": "19:55",
       "itemIds": ["211"]
@@ -4001,7 +4001,7 @@
       "teleport": "Fort Jobb",
       "teleportFr": "Fort Jobb",
       "teleportDe": "Jobb-Feste",
-      "position": "unknown",
+      "position": { },
       "startTime": "8:00",
       "endTime": "11:55",
       "itemIds": ["212"]
@@ -4016,7 +4016,7 @@
       "teleport": "Slitherbough",
       "teleportFr": "Serpentige",
       "teleportDe": "Slitherbough",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "3:55",
       "itemIds": ["213"]
@@ -4031,7 +4031,7 @@
       "teleport": "Fort Jobb",
       "teleportFr": "Fort Jobb",
       "teleportDe": "Jobb-Feste",
-      "position": "unknown",
+      "position": { },
       "startTime": "12:00",
       "endTime": "15:55",
       "itemIds": ["214"]
@@ -4046,7 +4046,7 @@
       "teleport": "Tomra",
       "teleportFr": "Tomra",
       "teleportDe": "Tomra",
-      "position": "unknown",
+      "position": { },
       "startTime": "20:00",
       "endTime": "23:55",
       "itemIds": ["215"]
@@ -4061,7 +4061,7 @@
       "teleport": "Fanow",
       "teleportFr": "Fanow",
       "teleportDe": "Fanow",
-      "position": "unknown",
+      "position": { },
       "startTime": "4:00",
       "endTime": "7:55",
       "itemIds": ["216"]
@@ -4076,7 +4076,7 @@
       "teleport": "Stilltide",
       "teleportFr": "Douceonde",
       "teleportDe": "Stilltide",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "1:55",
       "itemIds": ["219"]
@@ -4091,7 +4091,7 @@
       "teleport": "Stilltide",
       "teleportFr": "Douceonde",
       "teleportDe": "Stilltide",
-      "position": "unknown",
+      "position": { },
       "startTime": "12:00",
       "endTime": "13:55",
       "itemIds": ["219"]
@@ -4106,7 +4106,7 @@
       "teleport": "Inn at Journey",
       "teleportFr": "Auberge du Grand Départ",
       "teleportDe": "Ruhstatt vor der Langen Reise",
-      "position": "unknown",
+      "position": { },
       "startTime": "4:00",
       "endTime": "5:55",
       "itemIds": ["220"]
@@ -4121,7 +4121,7 @@
       "teleport": "Inn at Journey",
       "teleportFr": "Auberge du Grand Départ",
       "teleportDe": "Ruhstatt vor der Langen Reise",
-      "position": "unknown",
+      "position": { },
       "startTime": "16:00",
       "endTime": "17:55",
       "itemIds": ["220"]
@@ -4136,7 +4136,7 @@
       "teleport": "Lydha Lran",
       "teleportFr": "Lydha Lran",
       "teleportDe": "Lydha Lran",
-      "position": "unknown",
+      "position": { },
       "startTime": "8:00",
       "endTime": "9:55",
       "itemIds": ["221"]
@@ -4151,7 +4151,7 @@
       "teleport": "Lydha Lran",
       "teleportFr": "Lydha Lran",
       "teleportDe": "Lydha Lran",
-      "position": "unknown",
+      "position": { },
       "startTime": "20:00",
       "endTime": "21:55",
       "itemIds": ["221"]
@@ -4202,7 +4202,7 @@
       "teleport": "The Macarenses Angle",
       "teleportFr": "Carré macarien",
       "teleportDe": "The Macarenses Angle",
-      "position": "unknown",
+      "position": { },
       "startTime": "6:00",
       "endTime": "7:55",
       "itemIds": ["223"]
@@ -4217,7 +4217,7 @@
       "teleport": "The Macarenses Angle",
       "teleportFr": "Carré macarien",
       "teleportDe": "The Macarenses Angle",
-      "position": "unknown",
+      "position": { },
       "startTime": "18:00",
       "endTime": "19:55",
       "itemIds": ["223"]
@@ -4232,7 +4232,7 @@
       "teleport": "Mord Souq",
       "teleportFr": "Mord Souq",
       "teleportDe": "Mord Souq",
-      "position": "unknown",
+      "position": { },
       "startTime": "10:00",
       "endTime": "11:55",
       "itemIds": ["224"]
@@ -4247,7 +4247,7 @@
       "teleport": "Mord Souq",
       "teleportFr": "Mord Souq",
       "teleportDe": "Mord Souq",
-      "position": "unknown",
+      "position": { },
       "startTime": "22:00",
       "endTime": "23:55",
       "itemIds": ["224"]
@@ -4664,7 +4664,7 @@
       "teleport": "unknown",
       "teleportFr": "unknown",
       "teleportDe": "unknown",
-      "position": "unknown",
+      "position": { },
       "startTime": "0:00",
       "endTime": "1:00",
       "itemIds": ["rarefied-manasilver-sand", "rarefied-pyrite"]

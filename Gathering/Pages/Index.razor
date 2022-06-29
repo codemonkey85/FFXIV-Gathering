@@ -2,6 +2,26 @@
 
 <PageTitle>Index</PageTitle>
 
-<h1>Hello, world!</h1>
+@if (nodes?.nodes is not null)
+{
+    <ul>
+        @foreach (var node in nodes.nodes.Take(3))
+        {
+            <li>
+                @node.zone
+            </li>
+        }
+    </ul>
+}
 
-Welcome to your new app.
+@if (items?.items is not null)
+{
+    <ul>
+        @foreach (var item in items.items.Take(3))
+        {
+            <li>
+                @item.name
+            </li>
+        }
+    </ul>
+}
