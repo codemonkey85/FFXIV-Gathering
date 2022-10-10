@@ -2,25 +2,25 @@
 
 <PageTitle>Index</PageTitle>
 
-@if (nodes?.nodes is not null)
+@if (_nodes is not null)
 {
     <ul>
-        @foreach (var node in nodes.nodes.Take(3))
+        @foreach (var node in _nodes.Take(3))
         {
             <li>
-                @node.zone
+                @node.Zone
             </li>
         }
     </ul>
 }
 
-@if (items?.items is not null)
+@if (_items is not null)
 {
     <ul>
-        @foreach (var item in items.items.Take(3))
+        @foreach (var item in _items.Take(3))
         {
             <li>
-                @item.name
+                @item.Name
             </li>
         }
     </ul>

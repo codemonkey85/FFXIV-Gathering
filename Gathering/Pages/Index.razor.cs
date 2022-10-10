@@ -2,12 +2,12 @@
 
 public partial class Index
 {
-    private Models.NodeRootobject? nodes;
-    private Models.ItemRootobject? items;
+    private List<Node>? _nodes;
+    private List<Item>? _items;
 
     protected override async Task OnInitializedAsync()
     {
-        nodes = await HttpClient.GetFromJsonAsync<Models.NodeRootobject>("data/nodes.json");
-        items = await HttpClient.GetFromJsonAsync<Models.ItemRootobject>("data/items.json");
+        _nodes = await HttpClient.GetFromJsonAsync<List<Node>>("data/nodes.json");
+        _items = await HttpClient.GetFromJsonAsync<List<Item>>("data/items.json");
     }
 }

@@ -1,22 +1,17 @@
 ﻿namespace Gathering.Models;
 
-public class ItemRootobject
-{
-    public Item[]? items { get; set; }
-}
-
 public class Item
 {
-    public string? id { get; set; }
-    public int? slot { get; set; }
-    public string? name { get; set; }
-    public string? nameFr { get; set; }
-    public string? nameDe { get; set; }
-    public string? level { get; set; }
-    public string? gatheringSkill { get; set; }
-    public string? perception { get; set; }
-    public string? imageUrl { get; set; }
-    public string? description { get; set; }
-    public string? descriptionFr { get; set; }
-    public string? descriptionDe { get; set; }
+    [JsonPropertyName("id")] public string? Id { get; set; }
+    [JsonPropertyName("slot")] public int? Slot { get; set; }
+    [JsonPropertyName("name")] public string? Name { get; set; }
+    [JsonPropertyName("nameFr")] public string? NameFr { get; set; }
+    [JsonPropertyName("nameDe")] public string? NameDe { get; set; }
+    [JsonPropertyName("level")] public string? Level { get; set; }
+    [JsonPropertyName("gatheringSkill")] public string? GatheringSkill { get; set; }
+    [JsonPropertyName("perception")] public string? Perception { get; set; }
+    [JsonPropertyName("imageUrl")] public string? ImageUrl { get; set; }
+    [JsonPropertyName("description")] public string? Description { get; set; }
+    [JsonPropertyName("descriptionFr")] public string? DescriptionFr { get; set; }
+    [JsonPropertyName("descriptionDe")] public string? DescriptionDe { get; set; }
 }
